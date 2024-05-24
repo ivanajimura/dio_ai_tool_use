@@ -23,7 +23,7 @@ Um prompt adicional (`did you hang`) foi utilizado para resetar a conversa quand
 O tutorial está disponível juntamente com este arquivo Readme, disponível no GitHub:
 
 
-[Link do Repositório](https://chatgpt.com/share/39732cb8-ef7b-43ac-9ccc-68f7c71e3f09)
+[Link do Repositório](https://github.com/ivanajimura/dio_ai_tool_use)
 
 
     
